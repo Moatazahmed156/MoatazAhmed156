@@ -1,8 +1,12 @@
-# Hi 👋, I'm Moataz Ahmed
+<div align="center">
+# Hi 👋, I'm Basel Hamdi
 
-## Software Engineer | MERN Stack Developer
+## Software Engineer || Full Stack Developer
+</div>
 
-## Connect with me:
+[![Profile views](https://komarev.com/ghpvc/?username=Moatazahmed156&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Moatazahmed156)
+
+### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moataz-ahmed-b02438255)
 
