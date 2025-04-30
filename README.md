@@ -59,16 +59,6 @@
      height="40"
     />
   </a>
-  
-  
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Assembly_language_logo.svg/800px-Assembly_language_logo.svg.png"
-      alt="assembly"
-      width="40"
-      height="40"
-    />
-   </a>
   <br/>
   
   **Web Development:**
