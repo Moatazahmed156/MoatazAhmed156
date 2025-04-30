@@ -1,6 +1,6 @@
 # Hi 👋, I'm Moataz Ahmed
 
-## Software Engineer || Full Stack Developer
+## Software Engineer | MERN Stack Developer
 
 ## Connect with me:
 
@@ -59,9 +59,6 @@
      height="40"
     />
   </a>
-  <br/>
-  
-  **Web Development:**
   <br/>
   **Frontend:**
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
