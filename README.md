@@ -1,7 +1,7 @@
 <div align="center">
-# Hi 👋, I'm Basel Hamdi
+# Hi 👋, I'm Moataz Ahmed
 
-## Software Engineer || Full Stack Developer
+## Software Engineer || MERN Stack Developer
 </div>
 
 [![Profile views](https://komarev.com/ghpvc/?username=Moatazahmed156&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Moatazahmed156)
