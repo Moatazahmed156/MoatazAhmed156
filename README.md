@@ -138,8 +138,6 @@
       height="40"
     />
   </a>
-  <br/>
-  **Browser Technologies:**
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/BOM" target="_blank" rel="noreferrer">
     <img
      src="https://upload.wikimedia.org/wikipedia/commons/9/96/BOM_Logo.svg"
@@ -148,9 +146,6 @@
      height="40"
     />
   </a>
-  <br/>
-  
-  **Databases:**
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
@@ -184,13 +179,3 @@
 ## Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moatazahmed156&layout=compact)](https://github.com/Moatazahmed156)
-
-## Basel Hamdi's GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Moatazahmed156&show_icons=true&theme=radical)](https://github.com/Moatazahmed156)
-
--   Total Stars Earned: 0 (Replace with actual data if available)
--   Total Commits (2025): 348 (Replace with actual data)
--   Total PRs: 6 (Replace with actual data)
--   Total Issues: 0 (Replace with actual data)
--   Contributed to (last year): 3 (Replace with actual data)
