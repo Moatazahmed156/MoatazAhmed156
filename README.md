@@ -1,14 +1,14 @@
 <div align="center">
 # Hi 👋, I'm Moataz Ahmed
 
-## Software Engineer || MERN Stack Developer
+## Software Engineer | MERN Stack Developer
 </div>
 
 [![Profile views](https://komarev.com/ghpvc/?username=Moatazahmed156&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Moatazahmed156)
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moataz-ahmed-b02438255)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/moataz-ahmed-b02438255)
 
 ## Languages and Tools:
 
