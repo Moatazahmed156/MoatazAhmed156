@@ -1,21 +1,4 @@
 <div align="center">
-
-# 👋 Hi, I'm Moataz Ahmed  
-## 🚀 Software Engineer | 🌐 MERN Stack Developer  
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Moataz%20Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moataz-ahmed-b02438255)](https://www.linkedin.com/in/moataz-ahmed-b02438255)
-[![Gmail Badge](https://img.shields.io/badge/-moatazahmed156@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:moatazahmed156@gmail.com)
-
-
-</div>
-
----
-
-### 🎯 "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-
----
-
-<div align="center">
   
 # 👋 Hi there, I'm <span style="color:#0e75b6">Moataz Ahmed</span>  
 ## 💻 Software Engineer | 🚀 MERN Stack Developer
@@ -101,36 +84,5 @@
   
 > 🚀 _"The best way to predict the future is to invent it."_  
 > – Alan Kay
-
-</div>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moatazahmed156&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moatazahmed156&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moatazahmed156&theme=tokyonight" />
-</p>
-
----
-
-## 💡 Fun Fact
-
-> 🧠 I love solving real-world problems through clean and scalable code.  
-> 🎯 I believe in **learning by doing** and **growing by sharing**!
-
----
-
-<div align="center">
-
-### ☕ Let's Collaborate and Build Something Great!
 
 </div>
