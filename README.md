@@ -1,164 +1,95 @@
 <div align="center">
-# Hi 👋, I'm Moataz Ahmed
+  
+# 👋 Hi there, I'm <span style="color:#0e75b6">Moataz Ahmed</span>  
+## 💻 Software Engineer | 🚀 MERN Stack Developer  
 
-## Software Engineer | MERN Stack Developer
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Flutter;C%2B%2B+%7C+Python+%7C+Dart;Passionate+about+clean+code+%F0%9F%92%AF" alt="Typing SVG" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=Moatazahmed156&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Moatazahmed156)
 
-### Connect with me:
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/moataz-ahmed-b02438255)
+---
 
-## Languages and Tools:
+## 📬 Connect with me
 
-<p align="left">
-    
-  **Programming Languages:**
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img
-     src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-     alt="dart"
-     width="40"
-     height="40"
-    />
-  </a>
-  <br/>
-  **Frontend:**
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <br/>
-  **Backend:**
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-      alt="sqlserver"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <br/>
-  
-  **Mobile Development:**
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/-Moataz%20Ahmed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moataz-ahmed-b02438255/)](https://www.linkedin.com/in/moataz-ahmed-b02438255/)
+
+---
+
+## 🧠 About Me
+
+- 🎓 I'm a CS student with a strong passion for **Web and Mobile Development**
+- 🧑‍🏫 Instructor @ GDSC | Volunteer @ 180 Degrees
+- 💬 Ask me about **React.js**, **Node.js**, **Flutter**, **MongoDB**, or **Problem Solving**
+- 🌱 Currently learning: **Docker**, **Advanced React Patterns**, and **System Design**
+- ✨ Fun Fact: I love turning coffee into code ☕🚀
+
+---
+
+## 🛠️ Languages & Tools
+
+### 🧩 Programming Languages
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+
+### ⚙️ Backend & DB
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Moatazahmed156&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moatazahmed156&show_icons=true&theme=github_dark" alt="Moataz's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moatazahmed156&layout=compact&theme=github_dark" alt="Top Langs" height="180"/>
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moatazahmed156&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## Most Used Languages
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moatazahmed156&layout=compact)](https://github.com/Moatazahmed156)
+## 📅 Programming Activity (Last Week)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  
+> 🚀 _"The best way to predict the future is to invent it."_  
+> – Alan Kay
+
+</div>
