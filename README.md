@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm <span style="color:#0e75b6">Moataz Ahmed</span>  
 ## 💻 Software Engineer | 🚀 MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Problem+Solving;C+%7C+C%2B%2B+%7C+C%23+%7C+Python+%7C+Assembly;Passionate+about+clean+code+%F0%9F%92%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Problem+Solving;C+%7C+C%2B%2B+%7C+C%23+%7C+Python+%7C+Assembly;Passionate+about+Learning+more+%F0%9F%92%AF" alt="Typing SVG" />
 
 </div>
 
