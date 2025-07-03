@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm <span style="color:#0e75b6">Moataz Ahmed</span>  
 ## 💻 Software Engineer | 🚀 MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Problem+Solving;C+%7C+C%2B%2B+%7C+C%23+%7C+Python+%7C+Assembly;Passionate+about+Learning+more+%F0%9F%92%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Flutter+%7CProblem+Solving;C+%7C+C%2B%2B+%7C+C%23+%7C+Python+%7C+JS;Passionate+about+Learning+more+%F0%9F%92%AF" alt="Typing SVG" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 - 🎓 I'm a CS student with a strong passion for **Web and Mobile Development**
 - 🧑‍🏫 Instructor @ GDSC | Volunteer @ 180 Degrees
-- 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, or **Problem Solving**
+- 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, **MongoDB**, or **Problem Solving**
 - 🌱 Currently learning: **Docker**, **Advanced React Patterns**, and **System Design**
 
 ## 🛠️ Tech Stack
