@@ -16,7 +16,7 @@
 
 - 🎓 I'm a CS student with a strong passion for **Web and Mobile Development**
 - 🧑‍🏫 Instructor @ GDSC | Volunteer @ 180 Degrees
-- 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, **MongoDB**, or **Problem Solving**
+- 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, **Flutter**, or **Problem Solving**
 - 🌱 Currently learning: **Docker**, **Advanced React Patterns**, and **System Design**
 
 ## 🛠️ Tech Stack
