@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 - 🎓 I'm a CS student with a strong passion for **Web and Mobile Development**
-- 🧑‍🏫 Instructor @ GDSC | Volunteer @ 180 Daraga
+- 🧑‍🏫 Volunteer @ 180 Daraga
 - 💬 Ask me about **React.js**, **Node.js**, **Flutter**, or **Problem Solving**
 - 🌱 Currently learning: **Docker**, **Advanced React Patterns**, and **System Design**
 
