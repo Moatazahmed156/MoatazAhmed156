@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Moataz Ahmed
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer;MERN+Stack+Developer;Flutter+Developer;React+Native+Developer;Competitive+Programmer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;MERN+Stack+Developer;Flutter+Developer;React+Native+Developer;Competitive+Programmer;Always+Learning+New+Technologies" />
 
 <img src="https://komarev.com/ghpvc/?username=Moatazahmed156&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
@@ -12,29 +12,27 @@
 
 # 💫 About Me
 
-🎓 Computer Science Student
+🎓 Computer Science Student passionate about building scalable web and mobile applications.
 
 🏆 Honorable Mention — ICPC Egyptian Collegiate Programming Contest 2024
 
-💻 Passionate about Full Stack Development
+💻 Specializing in **MERN Stack**, **Flutter**, and **React Native**
 
-📱 Building Cross Platform Mobile Applications
-
-🚀 Love solving algorithmic problems
+🚀 Passionate about creating modern, responsive, and user-friendly applications.
 
 🌱 Currently learning
 
 - Docker
 - System Design
-- Advanced React
+- Advanced React Patterns
 - CI/CD
-- DevOps
+- DevOps Fundamentals
 
 💬 Ask me about
 
-- React
+- React.js
 - Node.js
-- Express
+- Express.js
 - MongoDB
 - Flutter
 - React Native
@@ -43,7 +41,7 @@
 
 ⚡ Fun Fact
 
-> I enjoy turning ideas into real-world applications while continuously improving my problem-solving skills.
+> I enjoy transforming ideas into real-world applications while continuously improving my software engineering and problem-solving skills.
 
 ---
 
@@ -51,12 +49,12 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/moataz-ahmed-b02438255">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/moataz-ahmed-b02438255">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:moatazahmed156@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -65,121 +63,110 @@
 
 # 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js,dart"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,dart" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-### Mobile
+### 📱 Mobile
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter,react"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,react" />
 </p>
 
-### Tools
+### 🛠️ Tools & Technologies
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman" />
 </p>
 
 ---
 
+# 🚀 Featured Projects
 
-# 📊 GitHub Analytics
+## 📚 E-Book Platform
+
+- 📖 Reading History
+- ❤️ Wishlist
+- 🔥 Trending Authors
+- 📱 Responsive UI
+- 💾 Local Storage
+- ⚡ Modern React Interface
+
+---
+
+## 🎬 WatchWise
+
+Movie discovery application powered by TMDB/OMDB APIs.
+
+### Features
+
+- 🔍 Smart Search
+- ❤️ Favorites
+- 📺 Watchlist
+- ⭐ Ratings
+- 🎭 Actor Profiles
+- 🌍 Multi-language Support
+- 🎬 Recommended Movies
+
+---
+
+## 📍 Member Tracking System
+
+A real-time admin dashboard built with **Node.js** and **React Native**.
+
+### Features
+
+- 📍 Live Member Locations
+- 💬 Messaging System
+- 👨‍💼 Admin Dashboard
+- 🔒 Secure Authentication
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Master the MERN Stack
+- 📱 Build production-ready Flutter & React Native apps
+- ☁️ Learn Cloud & DevOps
+- 🐳 Master Docker & CI/CD
+- 🧠 Improve Competitive Programming
+- 🌍 Contribute to Open Source
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moatazahmed156&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moatazahmed156&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Moatazahmed156&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Moatazahmed156&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moatazahmed156&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Moatazahmed156&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Moatazahmed156/Moatazahmed156/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-✅ Master MERN Stack
-
-✅ Build Production Mobile Apps
-
-✅ Learn System Design
-
-✅ Master Docker & CI/CD
-
-✅ Improve Competitive Programming
-
-✅ Contribute to Open Source
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile! ⭐
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&width=600&lines=Always+Building...;Always+Learning...;Always+Improving..." />
+> **"Programs must be written for people to read, and only incidentally for machines to execute."**  
+> **— Harold Abelson**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:1E3A8A&height=140&section=footer"/>
 
 </div>
