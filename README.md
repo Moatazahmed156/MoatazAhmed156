@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;MERN+Stack+Developer;Flutter+%26+React+Native+Developer;Competitive+Programmer;Always+Learning+New+Technologies" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Moatazahmed156&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
 </div>
 
 ---
@@ -100,17 +96,6 @@
 
 </details>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Moatazahmed156&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moatazahmed156&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -128,9 +113,7 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-> **"Programs must be written for people to read, and only incidentally for machines to execute."**  
-> **— Harold Abelson**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:38bdf8&height=120&section=footer"/>
+> **"The best way to predict the future is to invent it."**  
+> **— Alan Kay**
 
 </div>
