@@ -107,46 +107,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 📚 E-Book Platform
-
-✔ Reading History
-
-✔ Wishlist
-
-✔ Trending Authors
-
-✔ Responsive Design
-
-✔ Local Storage
-
----
-
-### 🎬 WatchWise
-
-Movie Discovery Application
-
-- TMDB/OMDB API
-- Watchlist
-- Favorites
-- Recommendations
-- Actor Profiles
-- Multi-language
-
----
-
-### 📍 Member Tracking System
-
-Admin Dashboard
-
-Node.js + React Native
-
-Live Member Location
-
-Messaging System
-
----
 
 # 📊 GitHub Analytics
 
