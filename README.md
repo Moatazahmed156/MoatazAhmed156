@@ -1,86 +1,225 @@
 <div align="center">
-  
-# 👋 Hi there, I'm <span style="color:#0e75b6">Moataz Ahmed</span>  
-## 💻 Software Engineer | 🚀 MERN Stack Developer | 📱 Flutter Developer
+
+# Hi 👋, I'm Moataz Ahmed
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer;MERN+Stack+Developer;Flutter+Developer;React+Native+Developer;Competitive+Programmer;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=Moatazahmed156&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
-## 📬 Connect with me
+---
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Moataz%20Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moataz-ahmed-b02438255)](https://www.linkedin.com/in/moataz-ahmed-b02438255)
-[![Gmail Badge](https://img.shields.io/badge/-moatazahmed156@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:moatazahmed156@gmail.com)
+# 💫 About Me
 
-## 🧠 About Me
+🎓 Computer Science Student
 
-- 🎓 I'm a CS student with a strong passion for **Web and Mobile Development**
-- 🧑‍🏫 Volunteer @ 180 Daraga
-- 💬 Ask me about **React.js**, **Node.js**, **Flutter**, or **Problem Solving**
-- 🌱 Currently learning: **Docker**, **Advanced React Patterns**, and **System Design**
+🏆 Honorable Mention — ICPC Egyptian Collegiate Programming Contest 2024
 
-## 🛠️ Tech Stack
+💻 Passionate about Full Stack Development
 
-<details>
-  <summary><strong>💻 Programming Languages</strong></summary>
+📱 Building Cross Platform Mobile Applications
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+🚀 Love solving algorithmic problems
 
-</details>
+🌱 Currently learning
 
-<details>
-  <summary><strong>🌐 Frontend</strong></summary>
+- Docker
+- System Design
+- Advanced React
+- CI/CD
+- DevOps
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+💬 Ask me about
 
-</details>
+- React
+- Node.js
+- Express
+- MongoDB
+- Flutter
+- React Native
+- REST APIs
+- Problem Solving
 
-<details>
-  <summary><strong>🧰 Backend & Databases</strong></summary>
+⚡ Fun Fact
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver)
+> I enjoy turning ideas into real-world applications while continuously improving my problem-solving skills.
 
-</details>
+---
 
-<details>
-  <summary><strong>📱 Mobile</strong></summary>
-
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-
-</details>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moatazahmed156&show_icons=true&theme=github_dark" alt="Moataz's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moatazahmed156&layout=compact&theme=github_dark" alt="Top Langs" height="180"/>
-</div>
-
-## 🔥 GitHub Streak
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moatazahmed156&theme=tokyonight" alt="GitHub Streak" />
+
+<a href="https://linkedin.com/in/moataz-ahmed-b02438255">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:moatazahmed156@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js,dart"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+
+</p>
+
+### Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,react"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📚 E-Book Platform
+
+✔ Reading History
+
+✔ Wishlist
+
+✔ Trending Authors
+
+✔ Responsive Design
+
+✔ Local Storage
+
+---
+
+### 🎬 WatchWise
+
+Movie Discovery Application
+
+- TMDB/OMDB API
+- Watchlist
+- Favorites
+- Recommendations
+- Actor Profiles
+- Multi-language
+
+---
+
+### 📍 Member Tracking System
+
+Admin Dashboard
+
+Node.js + React Native
+
+Live Member Location
+
+Messaging System
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moatazahmed156&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moatazahmed156&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Moatazahmed156&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moatazahmed156&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Moatazahmed156&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Moatazahmed156/Moatazahmed156/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master MERN Stack
+
+✅ Build Production Mobile Apps
+
+✅ Learn System Design
+
+✅ Master Docker & CI/CD
+
+✅ Improve Competitive Programming
+
+✅ Contribute to Open Source
+
+---
+
 <div align="center">
-  
-> 🚀 _"The best way to predict the future is to invent it."_  
-> – Alan Kay
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&width=600&lines=Always+Building...;Always+Learning...;Always+Improving..." />
 
 </div>
